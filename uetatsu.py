@@ -1,6 +1,6 @@
 """適当なスクリプト"""
 
 def f():
-    print("Hello world!")
+    print("Hello world!!!!!!")
 
 f()
